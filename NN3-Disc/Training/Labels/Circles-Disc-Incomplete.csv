@@ -1,11 +1,55 @@
-circle_disc_incomp2(001),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(006) (3rd copy),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(005),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(003),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(006) (4th copy),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(004),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(006),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(006) (another copy),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(007),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(006) (copy),-1,1,-1,-1,-1,-1,-1,-1
-circle_disc_incomp2(002),-1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(001),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (8th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(003) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(001) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (5th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(005) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (16th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(004) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (13th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (24th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(001) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(007) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(005),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(003) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (22nd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(004) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (19th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(002) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(003),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (17th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (23rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(002) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (10th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(004) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(005) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(004),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(005) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(001) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(003) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(005) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (6th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (18th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (11th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (14th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(002) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (12th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(001) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(002) (another copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(004) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (7th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (20th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(007),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (9th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (15th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(006) (21st copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(007) (3rd copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(002),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(003) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(007) (4th copy),1,1,-1,-1,-1,-1,-1,-1
+circle_disc_incomp2(007) (another copy),1,1,-1,-1,-1,-1,-1,-1
