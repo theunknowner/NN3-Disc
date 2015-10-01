@@ -117,6 +117,7 @@ circle_disc_comp3(004) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(070) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(007) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(030) (3rd copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (7th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(065) (4th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(021) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(083) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
@@ -141,6 +142,7 @@ circle_disc_comp(080) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(003),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(020) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(041) (copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(005) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(039),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(082) (another copy),1,-1,-1,-1,-1,-1,-1,-1
@@ -159,7 +161,9 @@ circle_disc_comp3(001) (19th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(008) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(027) (3rd copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(007) (another copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(083) (copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (6th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(005) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(057) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(076) (18th copy),1,-1,-1,-1,-1,-1,-1,-1
@@ -185,6 +189,7 @@ circle_disc_comp(054) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(071),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(002) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(080),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(055) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(071) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(076) (10th copy),1,-1,-1,-1,-1,-1,-1,-1
@@ -221,6 +226,7 @@ circle_disc_comp3(009),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(059) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(054),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(001) (16th copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(011),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(005),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(026) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(058),1,-1,-1,-1,-1,-1,-1,-1
@@ -249,6 +255,7 @@ circle_disc_comp3(008) (9th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(083),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(065) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(076) (6th copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (4th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(004),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(076) (11th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(008) (6th copy),1,-1,-1,-1,-1,-1,-1,-1
@@ -260,6 +267,7 @@ circle_disc_comp(058) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(039) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(065) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(018) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(029) (4th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(058) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(069),1,-1,-1,-1,-1,-1,-1,-1
@@ -302,6 +310,7 @@ circle_disc_comp3(007) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(072) (another copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(078) (3rd copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(030) (5th copy),1,-1,-1,-1,-1,-1,-1,-1
+circle_disc_comp3(010) (3rd copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(021),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp(026) (copy),1,-1,-1,-1,-1,-1,-1,-1
 circle_disc_comp3(001) (7th copy),1,-1,-1,-1,-1,-1,-1,-1
